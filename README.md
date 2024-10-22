@@ -20,7 +20,8 @@ Blockly has an active [developer forum](https://groups.google.com/forum/#!forum/
 
 Apache 2.0
 
-## チュートリアル
+
+## [チュートリアル](https://blocklycodelabs.dev/)
  - [x] Blocklyを使い始める
  - [x] テーマのカスタマイズ
  - [ ] Blocklyツールボックスのカスタマイズ
