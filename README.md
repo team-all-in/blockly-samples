@@ -19,3 +19,13 @@ Blockly has an active [developer forum](https://groups.google.com/forum/#!forum/
 ## License
 
 Apache 2.0
+
+## チュートリアル
+ - [ ] Blocklyを使い始める
+ - [ ] テーマのカスタマイズ
+ - [ ] Blocklyツールボックスのカスタマイズ
+ - [ ] カスタムジェネレータを構築する
+ - [ ] カスタムレンダーを構築する
+ - [ ] コンテキストメニューのカスタマイズ
+ - [ ] キーボードナビゲーション
+ - [ ] ブロックの検証と警告インジケータの表示
